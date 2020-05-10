@@ -1,5 +1,5 @@
 # Connectify Hotspot
-Sharing my Connectify license, as I do not need it anymore.
+Sharing my Connectify Hotspot software license, as I do not need it anymore.
 
 ### For 3x devices only (please deregister and uninstall if you do not require it anymore)
 
