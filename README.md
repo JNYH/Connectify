@@ -1,7 +1,7 @@
 # Connectify Hotspot
 Sharing my Connectify Hotspot software license, as I do not need it anymore.
 
-### For 3x devices only (please deregister and uninstall if you do not require it anymore)
+### For 3x devices only (please de-register and uninstall if you do not require it anymore)
 
 ## About the product:
 https://www.connectify.me/
@@ -16,4 +16,4 @@ username: jnyh@yahoo.com	(my public email addresss)
 
 password: AbJMs5EZLVFx	
 
-### For 3x devices only (please deregister and uninstall if you do not require it anymore)
+### For 3x devices only (please de-register and uninstall if you do not require it anymore)
