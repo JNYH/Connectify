@@ -10,7 +10,7 @@ Hotspot Easily Connects All Your Devices to Wi-Fi
 Connectify Hotspot makes all your devices happy. This easy-to-use virtual router application lets you share Internet from your laptop with your smartphone, tablet, media player, e-reader, other laptops, and even your nearby friends. Use it anywhere in the world without restrictions.
 
 
-## Connectify Hotspot PRO Plus 3x Lifetime License 
+## Connectify Hotspot PRO Plus 3x Lifetime License: 
 
 Order number: CON140910-5396-56606	
 
