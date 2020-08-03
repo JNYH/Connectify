@@ -21,3 +21,5 @@ username: jnyh@yahoo.com	(my public email addresss)
 password: AbJMs5EZLVFx	
 
 ### For 3x devices only (please de-register and uninstall if you do not require it anymore)
+
+(let me know through jnyh@yahoo.com if you have registered or de-registered, thanks!)
